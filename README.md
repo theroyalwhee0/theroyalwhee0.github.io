@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## API Documentation
+- [@theroyalwhee0/counters](https://theroyalwhee0.github.io/counters/) - Wrapping numeric counters.
+- [@theroyalwhee0/ident](https://theroyalwhee0.github.io/ident/) - A unique identity/token generator for Node
+- [@theroyalwhee0/iter](https://theroyalwhee0.github.io/iter/) - Iterator/generator utilities for Javascript.
+- [@theroyalwhee0/please](https://theroyalwhee0.github.io/please/) - A Promise helper library.
+- [@theroyalwhee0/snowman](https://theroyalwhee0.github.io/snowman/) - A distributed unique 64 bit ID generator. Inspired by Sony's Sonyflake and Twitter's Snowflake.
 
-You can use the [editor on GitHub](https://github.com/theroyalwhee0/theroyalwhee0.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theroyalwhee0/theroyalwhee0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Find me on
+- [My Website](https://www.theroyalwhee.com/)
+- [GitHub](https://github.com/theroyalwhee0)
+- [NPM](https://www.npmjs.com/~theroyalwhee0)
