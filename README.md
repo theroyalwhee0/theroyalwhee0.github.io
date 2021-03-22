@@ -8,6 +8,8 @@
 - [@theroyalwhee0/iter](https://theroyalwhee0.github.io/iter/) - Iterator/generator utilities for Javascript.
 - [@theroyalwhee0/please](https://theroyalwhee0.github.io/please/) - A Promise helper library.
 - [@theroyalwhee0/snowman](https://theroyalwhee0.github.io/snowman/) - A distributed unique 64 bit ID generator.
+- [@theroyalwhee0/result](https://theroyalwhee0.github.io/result/) - A Rust-like Result type for TypeScript.
+
 
 
 ## Find me on
