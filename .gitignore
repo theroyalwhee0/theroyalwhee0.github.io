@@ -8,6 +8,7 @@
 !README.md
 !_config.yml
 !favicon.ico
+!logo.png
 
 # Disallow completely.
 /.focus
