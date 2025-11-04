@@ -1,0 +1,13 @@
+# Ignore all files, but allow all directories.
+*
+!.gitignore
+!*/
+!*/**/
+
+# Explicitly whitelist files and directories
+!README.md
+!_config.yml
+
+# Disallow completely.
+/.focus
+.local/
