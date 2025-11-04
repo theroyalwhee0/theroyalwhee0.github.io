@@ -1,11 +1,11 @@
-# The Royal Whee
+# Project & Libraries
 
-## TypeScript libraries
+## TypeScript Libraries
 
 - [@theroyalwhee0/commonprops](https://theroyalwhee0.github.io/commonprops/latest/)
   \- TypeScript utilities for extracting common properties from type sets.
 
-## Find me on
+## Find Me On
 
 - [My Website](https://www.theroyalwhee.com/)
 - [GitHub](https://github.com/theroyalwhee0)
